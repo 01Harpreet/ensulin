@@ -1,4 +1,4 @@
-# Ensulin
+# Intake
 
 ## Overview
 The Food Scanner App allows users to scan food or grocery items to determine sugar and carb content. It also tracks daily limits and supports multiple languages (English, Spanish, Chinese, Tagalog, Arabic and Punjabi). Designed to provide an easy-to-use experience.
